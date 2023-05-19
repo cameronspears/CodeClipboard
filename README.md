@@ -44,4 +44,6 @@ python CodeClipboard.py
 
 This will print an ASCII tree representing the project structure to stdout and prompt you to select the numbers of the files you want to copy to your clipboard. Enter the numbers of the files, separated by commas, and hit Enter.
 
+![image-20230519123416725](https://github.com/cameronspears/CodeClipboard/assets/25994477/fdc72b1d-9b79-4489-a4ec-70b9960b499d)
+
 The selected file contents, along with the project structure, will be copied to your clipboard, ready to be pasted wherever you need.
