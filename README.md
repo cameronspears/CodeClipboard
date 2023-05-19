@@ -11,7 +11,6 @@ To get started with CodeClipboard, you need to have Python installed on your sys
 CodeClipboard relies on the `pyperclip` package for interacting with the clipboard. If you don't have `pyperclip` installed, you can install it using pip:
 
 ```
-bashCopy code
 pip install pyperclip
 ```
 
@@ -20,14 +19,12 @@ pip install pyperclip
 To use CodeClipboard, first clone the repository to your local machine:
 
 ```
-bashCopy code
 git clone https://github.com/<your_username>/CodeClipboard.git
 ```
 
 Then, navigate to the directory where the repository is cloned:
 
 ```
-bashCopy code
 cd CodeClipboard
 ```
 
@@ -36,14 +33,12 @@ cd CodeClipboard
 First, you need to set the `project_path` variable in `settings.py` to point to the root directory of the project you want to analyze:
 
 ```
-pythonCopy code
 project_path = r"/path/to/your/project" # Change this to your project path
 ```
 
 Then, simply run the `CodeClipboard.py` script:
 
 ```
-bashCopy code
 python CodeClipboard.py
 ```
 
