@@ -1,1 +1,1 @@
-project_path = r"C:\Users\cameron.spears\CodeClipboard" ## Change this to your project path
+project_path = r"C:\Users\Name\Project" ## Change this to your project path
